@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ![Ferrari](https://img.shields.io/static/v1?style=for-the-badge&message=Ferrari&color=D40000&logo=Ferrari&logoColor=FFFFFF&label=)
 ![Lamborghini](https://img.shields.io/static/v1?style=for-the-badge&message=Lamborghini&color=222222&logo=Lamborghini&logoColor=DDB320&label=)
 ![Bugatti](https://img.shields.io/static/v1?style=for-the-badge&message=Bugatti&color=BE0030&logo=Bugatti&logoColor=FFFFFF&label=)
+![McLaren](https://img.shields.io/static/v1?style=for-the-badge&message=McLaren&color=FF0000&logo=McLaren&logoColor=FFFFFF&label=)
+![McDonald's](https://img.shields.io/static/v1?style=for-the-badge&message=McDonald%27s&color=222222&logo=McDonald%27s&logoColor=FBC817&label=)
