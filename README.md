@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
+## 🛠 ETC
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+
 ## 🚘 My DreamCar
 ![Porsche](https://img.shields.io/static/v1?style=for-the-badge&message=Porsche&color=B12B28&logo=Porsche&logoColor=FFFFFF&label=)
 ![Ferrari](https://img.shields.io/static/v1?style=for-the-badge&message=Ferrari&color=D40000&logo=Ferrari&logoColor=FFFFFF&label=)
