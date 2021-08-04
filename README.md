@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#Back End
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
@@ -25,7 +26,5 @@ Here are some ideas to get you started:
 ## My DreamCar
 ![Ferrari](https://img.shields.io/static/v1?style=for-the-badge&message=Ferrari&color=D40000&logo=Ferrari&logoColor=FFFFFF&label=)
 ![Porsche](https://img.shields.io/static/v1?style=for-the-badge&message=Porsche&color=B12B28&logo=Porsche&logoColor=FFFFFF&label=)
-![BMW](https://img.shields.io/static/v1?style=for-the-badge&message=BMW&color=0066B1&logo=BMW&logoColor=FFFFFF&label=)
 ![Lamborghini](https://img.shields.io/static/v1?style=for-the-badge&message=Lamborghini&color=222222&logo=Lamborghini&logoColor=DDB320&label=)
-![Land Rover](https://img.shields.io/static/v1?style=for-the-badge&message=Land+Rover&color=005A2B&logo=Land+Rover&logoColor=FFFFFF&label=)
 ![Bugatti](https://img.shields.io/static/v1?style=for-the-badge&message=Bugatti&color=BE0030&logo=Bugatti&logoColor=FFFFFF&label=)
