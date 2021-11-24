@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Spring Framework, JPA
+### 🌱 I’m Junior Developer KIM TAE WOO
 <!--
 **twkim5235/twkim5235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
