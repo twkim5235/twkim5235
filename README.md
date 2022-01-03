@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
-## 💁PortFolio
+## 💁 PortFolio
 [PortFolio](https://www.notion.so/KimTaeWoo-s-Portfolio-aebd37fd3a5f42bcbbff13087f06691f)
