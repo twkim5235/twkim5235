@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
 
