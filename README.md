@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ## 💁 [PortFolio](https://www.notion.so/KimTaeWoo-s-Portfolio-aebd37fd3a5f42bcbbff13087f06691f)
 
 
-## Algorithm
+## 🖥 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn5235)](https://solved.ac/xodn5235/)
