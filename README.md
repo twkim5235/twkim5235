@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 
 ## 💁 [PortFolio](https://www.notion.so/KimTaeWoo-s-Portfolio-aebd37fd3a5f42bcbbff13087f06691f)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn5235)](https://solved.ac/xodn5235/)
