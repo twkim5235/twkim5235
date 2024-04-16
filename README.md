@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 
 ## 💁 [PortFolio](https://www.notion.so/KimTaeWoo-s-Portfolio-aebd37fd3a5f42bcbbff13087f06691f)
 
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/farms/{twkim5235}"/>
+</a>
